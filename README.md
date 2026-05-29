@@ -37,7 +37,7 @@ docker-compose down -v
 ## Credenciais padrão
 
 - Usuário: admin
-- Senha: senha123
+- Senha: senha123321
 - Banco: vector_db
 - Porta: 5432
 
